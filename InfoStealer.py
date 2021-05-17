@@ -6,9 +6,9 @@ import socket
 import platform
 import uuid
 
-sender = 'youremail@gmail.com'
-reciever = 'email@gmail.com'
-password = 'password'
+sender = 'jakobitow93@gmail.com'
+reciever = 'jakobitow83@gmail.com'
+password = 'Gmodplayer1335'
 # Dont change this
 marker = "AUNIQUEMARKER"
 
